@@ -60,7 +60,16 @@ The objective of this project is to analyze global population trends and visuali
    - Filters top 20 countries dynamically for each selected year  
    - HTML export: `html/altair_multi_year.html`
 
----## Interactive Visualisations
+---## Interactive Visualisations## Interactive Visualisations
+
+- **Top 20 Countries Population (Interactive Bar Chart)**  
+  👉 [View Visual](interactive_population20.html)
+
+- **Population Distribution – 2023 (Treemap)**  
+  👉 [View Visual](population_distribution_2023.html)
+
+
+
 
 ### 🌍 Population Dashboard Visuals
 
