@@ -6,6 +6,8 @@ Interactive Population Dashboard: Multi-year analysis of top 20 most populous co
 **Email:** lizmtetwa@yahoo.co.uk  
 **Location:** Fleet, United Kingdom
 
+
+
 ---
 
 ## Problem / Objective
@@ -62,12 +64,8 @@ The objective of this project is to analyze global population trends and visuali
 
 ---## Interactive Visualisations## Interactive Visualisations
 
-- **Top 20 Countries Population (Interactive Bar Chart)**  
-  👉 [View Visual](interactive_population20.html)
-
-- **Population Distribution – 2023 (Treemap)**  
-  👉 [View Visual](population_distribution_2023.html)
-
+https://lizmtetwa.github.io/interactive-population-dashboard/interactive_population20.html
+https://lizmtetwa.github.io/interactive-population-dashboard/population_distribution_2023.html
 
 
 
@@ -75,11 +73,6 @@ The objective of this project is to analyze global population trends and visuali
 
 - ## Interactive Visualisations
 
-- **Top 20 Countries Population (Interactive Bar Chart)**  
-  👉 [View Visual](html/interactive_population20.html)
-
-- **Population Distribution – 2023 (Treemap)**  
-  👉 [View Visual](html/population_distribution_2023.html)
 
 
 
