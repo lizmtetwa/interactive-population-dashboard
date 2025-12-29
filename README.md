@@ -68,22 +68,25 @@ The objective of this project is to analyze global population trends and visuali
 ## Interactive Population Visualisations
 
 - **Main Dashboard**  
-  👉 [View Dashboard](index.html)
+  fig.write_html(
+    "top_20_countries_bar_chart.html",
+    include_plotlyjs="cdn",  # loads Plotly from the web instead of embedding it
+    full_html=True
+)
+fig_treemap.write_html(
+    "population_treemap.html",
+    include_plotlyjs="cdn",
+    full_html=True
+)
+# Example: only top 20 countries for selected year
+df_small = df_population[df_population['Year'] 
 
-- **Top 20 Countries Population (Bar Chart)**  
-  👉 [View Bar Chart](top_20_countries_bar_chart.html)
+== most_recent_year].nlargest(20, 'Population')
+chart.save('population_distribution.html')
 
-- **Population Distribution Treemap**  
-  👉 [View Treemap](population_treemap.html)
-
-- **Population Distribution (Altair/Other Chart)**  
-  👉 [View Distribution](population_distribution.html)
-
-- **Full Population Dashboard**  
-  👉 [View Full Dashboard](population_dashboard.html)
-
-
-
+import altair as alt
+alt.data_transformers.enable('cdn')
+chart.save('population_distribution.html')
 
 ## Outcomes / Insights
 
