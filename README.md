@@ -64,11 +64,14 @@ The objective of this project is to analyze global population trends and visuali
 
 ### 🌍 Population Dashboard Visuals
 
+- ## Interactive Visualisations
+
 - **Top 20 Countries Population (Interactive Bar Chart)**  
   👉 [View Visual](html/interactive_population20.html)
 
 - **Population Distribution – 2023 (Treemap)**  
   👉 [View Visual](html/population_distribution_2023.html)
+
 
 
 ## Outcomes / Insights
