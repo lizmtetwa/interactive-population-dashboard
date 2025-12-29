@@ -65,6 +65,7 @@ The objective of this project is to analyze global population trends and visuali
 ---## Interactive Visualisations## Interactive Visualisations
 
 https://lizmtetwa.github.io/interactive-population-dashboard/interactive_population20.html
+
 https://lizmtetwa.github.io/interactive-population-dashboard/population_distribution_2023.html
 
 
