@@ -1,0 +1,11 @@
+interactive-population-dashboard/
+│
+├─ README.md
+├─ data/
+│   └─ population.csv
+├─ notebooks/
+│   └─ interactive_population_dashboard.ipynb
+└─ html/
+    ├─ top_20_bar.html
+    ├─ population_treemap.html
+    └─ altair_multi_year.html
