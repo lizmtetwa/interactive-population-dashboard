@@ -62,17 +62,25 @@ The objective of this project is to analyze global population trends and visuali
    - Filters top 20 countries dynamically for each selected year  
    - HTML export: `html/altair_multi_year.html`
 
----## Interactive Visualisations## Interactive Visualisations
-
-https://lizmtetwa.github.io/interactive-population-dashboard/interactive_population20.html
-
-https://lizmtetwa.github.io/interactive-population-dashboard/population_distribution_2023.html
-
-
-
-### 🌍 Population Dashboard Visuals
+---### 🌍 Population Dashboard Visuals
 
 - ## Interactive Visualisations
+## Interactive Population Visualisations
+
+- **Main Dashboard**  
+  👉 [View Dashboard](index.html)
+
+- **Top 20 Countries Population (Bar Chart)**  
+  👉 [View Bar Chart](top_20_countries_bar_chart.html)
+
+- **Population Distribution Treemap**  
+  👉 [View Treemap](population_treemap.html)
+
+- **Population Distribution (Altair/Other Chart)**  
+  👉 [View Distribution](population_distribution.html)
+
+- **Full Population Dashboard**  
+  👉 [View Full Dashboard](population_dashboard.html)
 
 
 
